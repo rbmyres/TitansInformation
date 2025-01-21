@@ -1,0 +1,74 @@
+{
+    "Skill": {
+        "levis": {
+            "name": "Will Levis",
+            "paragraph": "Will Levis is the starting quarterback for the Tennessee Titans. He is a second year player who was drafted in the second-round (33rd overall) by the Titans in 2023. He started in 9 games during his impressive rookie season, recording the best passer rating by a second round rookie in NFL history. Levis is looking to build on his impressive rookie season this year."
+        },
+        "pollard": {
+            "name": "Tony Pollard",
+            "paragraph": "Tony Pollard is a starting running back for the Tennessee Titans. He was drafted in the fourth-round of the 2019 draft by the Dallas Cowboys. Pollard had a breakout season in 2022 and earned a Pro Bowl selection, but regressed the following year in 2023. Pollard is anticipating that a change in scenery will help him recover his Pro Bowl form."
+        },
+        "hopkins": {
+            "name": "DeAndre Hopkins",
+            "paragraph": "DeAndre Hopkins is a starting receiver for the Tennessee Titans. He was drafted in the first-round of the 2013 NFL draft by the Houston Texans. Throughout his career, Hopkins has accumulated 12,000 career yards, 5 Pro Bowls, and 4 All Pros. During his second year with the Titans, Hopkins is looking to help a young Titans team improve, but also play well in his own right."
+        },
+        "ridley": {
+            "name": "Calvin Ridley",
+            "paragraph": "Calvin Ridley is a starting receiver for the Tennessee Titans. He was drafted in the first-round of the 2018 NFL draft by the Atlanta Falcons. In 2023, Ridley was traded to the Jacksonville Jaguars, but had a disappointing season. After being traded to the Titans, Ridley would like to have a bounce back season and add some explosion to the Titans passing game."
+        }
+    },
+    "Line": {
+        "latham": {
+            "name": "JC Latham",
+            "paragraph": "JC Latham is the starting left tackle for the Tennessee Titans. He was drafted in the first-round (7th overall) in the 2024 draft by the Titans. Latham is a massive tackle, standing at 6-foot-6, 342 pounds. The Titans have had a struggling offensive line for the past few years, and Latham wants to add some security to the left side in his rookie season."
+        },
+        "skoronski": {
+            "name": "Peter Skoronski",
+            "paragraph": "Peter Skoronski is the starting left guard for the Tennessee Titans. He was drafted in the first-round (11th overall) in the 2023 draft by the Titans. Skoronski struggled with back injuries which caused him to have a disappointing rookie season. Now that he is healthy, Skoronski expects to perform closer to his impressive college levels."
+        },
+        "cushenberry": {
+            "name": "Lloyd Cushenberry III",
+            "paragraph": "Lloyd Cushenberry III is the starting center for the Tennessee Titans. He was selected in the third round of the 2020 draft by the Denver Broncos. Even though he has no Pro Bowl selections, Cushenberry is a proven starter in the NFL. After being signed to a large contract in the offseason, Cushenberry is expecting to perform at a high level for the Titans at a position of need."
+        },
+        "radunz": {
+            "name": "Dillon Radunz",
+            "paragraph": "Dillon Radunz is the starting right guard for the Tennessee Titans. He was selected in the second round (53rd overall) of the 2021 draft by the Titans. Radunz is a very versatile player who has played at LT, LG, RT, and RG for the Titans. This season, Radunz hopes to have a more consistent starting role at right guard."
+        }
+    },
+    "Front": {
+        "simmons": {
+            "name": "Jeffery Simmons",
+            "paragraph": "Jefferey Simmons is a starting defensive tackle for the Tennessee Titans. He was selected in the first-round (19th overall) of the 2019 draft by the Titans. Simmons broke out as a star early, earning two All Pro selections in 2021 and 2022, but injuries have held him back since. This season, Simmons expects to once again reach his All Pro level of play."
+        },
+        "sweat": {
+            "name": "T'Vondre Sweat",
+            "paragraph": "T'Vondre Sweat is a starting defensive tackle for the Tennessee Titans. He was selected in the second-round (38th overall) of the 2024 draft by the Titans. Sweat is a giant player, standing at 6-foot-4, 366 pounds. He hopes in his rookie season to use his massive frame to stuff the run and get to the quarterback."
+        },
+        "landry": {
+            "name": "Harold Landry III",
+            "paragraph": "Harold Landry III is a starting outside linebacker for the Tennessee Titans. He was selected in the second round (41st overall) of the 2018 draft by the Titans. Throughout his six year career, Landry has accumulated 41.5 sacks which places him 11th all-time for the Titans. Landry looks to continue his great Titans career this season."
+        },
+        "jones": {
+            "name": "Ernest Jones IV",
+            "paragraph": "Ernest Jones IV is a starting middle linebacker for the Tennessee Titans. He was selected in the third round of the 2021 draft by the Los Angeles Rams. After two middle linebackers were injured during the preseason, the Titans traded for Jones a couple weeks before the start of the regular season. Jones is a proven starter who wants to fill the gap at middle linebacker caused by injuries."
+        }
+    },
+    "Second": {
+        "sneed": {
+            "name": "L'Jarius Sneed",
+            "paragraph": "L'Jarius Sneed is a starting cornerback for the Tennessee Titans. He was drafted in the fourth round of the 2020 draft by the Kansas City Chiefs. Sneed is an elite cornerback who won two superbowls with the Chiefs in 2022 and 2023. After being traded for, Sneed should provide the Titans with elite cornerback play and winning leadership."
+        },
+        "mccreary": {
+            "name": "Roger McCreary",
+            "paragraph": "Roger McCreary is a starting cornerback for the Tennessee Titans. He was selected in the second round (35th overall) of the 2022 draft by the Titans. McCreary is a promising young player, recording 171 tackles, 14 passes defended, and 2 interceptions during his first two seasons. McCreary hopes to build on his promising young career."
+        },
+        "hooker": {
+            "name": "Amani Hooker",
+            "paragraph": "Amani Hooker is a starting safety for the Tennessee Titans. He was drafted in the fourth round (116th overall) of the 2019 draft by the Titans. Hooker is a proven starter for the Titans, accumulating 245 tackles, 22 passes defended, and 7 interceptions during his first five seasons. Hooker provides the Titans with high-level play and veteran leadership."
+        },
+        "diggs": {
+            "name": "Quandre Diggs",
+            "paragraph": "Quandre Diggs is a starting safety for the Tennessee Titans. He was drafted in the sixth round of the 2015 draft by the Detroit Lions. Diggs has had an incredibly successful career, accumulating 3 Pro Bowls throughout his nine seasons. After joining the Titans this season, Diggs should be a high-level player in the Titans secondary."
+        }
+    }
+}
