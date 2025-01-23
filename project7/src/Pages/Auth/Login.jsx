@@ -14,7 +14,7 @@ function Login() {
         event.preventDefault();
         try {
             const user = await signInWithEmailAndPassword(auth, loginEmail, loginPassword);
-            navigate("/~rbmyres/CS354/TitansInformation/project7/profile");
+            navigate("/~rbmyres/Projects/TitansInformation/project7/profile");
             toast.success("Logged in!");
         } catch (error) {
             toast.error(error.message);
