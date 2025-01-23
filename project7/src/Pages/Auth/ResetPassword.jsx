@@ -12,7 +12,7 @@ function ResetPassword() {
         event.preventDefault(); 
         try {
             const user = await sendPasswordResetEmail(auth, resetEmail);
-            navigate("/~rbmyres/CS354/Project7/project7/profile");
+            navigate("/~rbmyres/CS354/TitansInformation/project7/profile");
             toast.success("Email sent!");
         } catch (error) {
             toast.error(error.message);

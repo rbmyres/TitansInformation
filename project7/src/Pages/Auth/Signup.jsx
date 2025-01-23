@@ -14,7 +14,7 @@ function Signup() {
         try {
             const user = await createUserWithEmailAndPassword(auth, registerEmail, registerPassword);
             toast.success("Account created!");
-            navigate("/~rbmyres/CS354/Project7/project7/profile");
+            navigate("/~rbmyres/CS354/TitansInformation/project7/profile");
         } catch (error) {
             toast.error(error.message);
         }
