@@ -61,7 +61,7 @@ function Players() {
 
             // Pass the player info and navigate
             if(player){
-                navigate(`/~rbmyres/Projects/TitansInformation/project7/player/${player.id}`, {
+                navigate(`/player/${player.id}`, {
                     state: { player: player.info }, 
                 });
             }

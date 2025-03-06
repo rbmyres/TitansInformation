@@ -23,15 +23,15 @@ function Profile(){
                         <button onClick={logout}>Logout</button>
                     ) : (
                         <button onClick={()=>{
-                            navigate("/~rbmyres/Projects/TitansInformation/project7/login");
+                            navigate("/login");
                         }}>Login</button>
                     )
                 }</li>
                 <li><button onClick={()=>{
-                    navigate("/~rbmyres/Projects/TitansInformation/project7/signup");
+                    navigate("/signup");
                 }}>Create Account</button></li>
                 <li><button onClick={()=>{
-                    navigate("/~rbmyres/Projects/TitansInformation/project7/resetpassword");
+                    navigate("/resetpassword");
                 }}>Reset Password</button></li>
             </ul>
         </div>

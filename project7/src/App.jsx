@@ -26,34 +26,34 @@ function App() {
       <nav>
         {currentUser ? (
           <ul className="nav">
-          <Link className="links" to="/~rbmyres/Projects/TitansInformation/project7/">Home</Link>
-          <Link className="links" to="/~rbmyres/Projects/TitansInformation/project7/players">Players</Link>
-          <Link className="links" to="/~rbmyres/Projects/TitansInformation/project7/staff/">Staff</Link>
-          <Link className="links" to="/~rbmyres/Projects/TitansInformation/project7/history/">History</Link>
-          <Link className="profileLink" to="/~rbmyres/Projects/TitansInformation/project7/profile/">Profile</Link>
+          <Link className="links" to="/">Home</Link>
+          <Link className="links" to="/players">Players</Link>
+          <Link className="links" to="/staff/">Staff</Link>
+          <Link className="links" to="/history/">History</Link>
+          <Link className="profileLink" to="/profile/">Profile</Link>
         </ul>
         ) : (
           <ul className="nav">
-          <Link className="links" to="/~rbmyres/Projects/TitansInformation/project7/">Home</Link>
+          <Link className="links" to="/">Home</Link>
           <Link className="links" onClick={message}>Players</Link>
           <Link className="links" onClick={message}>Staff</Link>
-          <Link className="links" to="/~rbmyres/Projects/TitansInformation/project7/history/">History</Link>
-          <Link className="profileLink" to="/~rbmyres/Projects/TitansInformation/project7/profile/">Profile</Link>
+          <Link className="links" to="/history/">History</Link>
+          <Link className="profileLink" to="/profile/">Profile</Link>
         </ul>
         )
         
       }
       </nav>
       <Routes>
-        <Route path="/~rbmyres/Projects/TitansInformation/project7/" element={<Home />} />
-        <Route path="/~rbmyres/Projects/TitansInformation/project7/players" element={<Players />} />
-        <Route path="/~rbmyres/Projects/TitansInformation/project7/staff" element={<Staff />} />
-        <Route path="/~rbmyres/Projects/TitansInformation/project7/history" element={<History />} />
-        <Route path="/~rbmyres/Projects/TitansInformation/project7/player/:lastname" element={<Player />} />
-        <Route path="/~rbmyres/Projects/TitansInformation/project7/profile" element={<Profile />} />
-        <Route path="/~rbmyres/Projects/TitansInformation/project7/login" element={<Login />} />
-        <Route path="/~rbmyres/Projects/TitansInformation/project7/signup" element={<Signup />} />
-        <Route path="/~rbmyres/Projects/TitansInformation/project7/resetpassword" element={<ResetPassword />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/players" element={<Players />} />
+        <Route path="/staff" element={<Staff />} />
+        <Route path="/history" element={<History />} />
+        <Route path="/player/:lastname" element={<Player />} />
+        <Route path="/profile" element={<Profile />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/signup" element={<Signup />} />
+        <Route path="/resetpassword" element={<ResetPassword />} />
       </Routes>
       <div className="footer">
         <ul>
